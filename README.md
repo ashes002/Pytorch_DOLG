@@ -16,7 +16,9 @@ reference: https://arxiv.org/pdf/2108.02927.pdf
 
 # Data
 You can get the GLDv2 dataset from [here](https://github.com/cvdfoundation/google-landmark).
+
 If you just want the GLDv2-clean dataset, check this [kaggle competition dataset](https://www.kaggle.com/c/landmark-retrieval-2021).
+
 Place your data like the structure below
 ```
 data
