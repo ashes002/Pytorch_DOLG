@@ -13,3 +13,6 @@ reference: https://arxiv.org/pdf/2108.02927.pdf
 - albumentations
 - python3
 - CUDA
+
+# Data
+You can get the GLDv2 dataset from [here](https://github.com/cvdfoundation/google-landmark)
