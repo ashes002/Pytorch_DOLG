@@ -3,4 +3,13 @@ PyTorch implementation of "DOLG: Single-Stage Image Retrieval with Deep Orthogon
 
 reference: https://arxiv.org/pdf/2108.02927.pdf
 
-#Prerequisites
+# Prerequisites
+- PyTorch
+- PyTorch Lightning
+- timm
+- sklearn
+- pandas
+- jpeg4py
+- albumentations
+- python3
+- CUDA
